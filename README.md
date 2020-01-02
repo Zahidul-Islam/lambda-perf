@@ -6,7 +6,7 @@ The focus of λperf is make aws lambda load testing easier when the function hav
 
 ## Install
 
-- Clone the repo: `git clone .... && cd ..`
+- Clone the repo: `git clone git@github.com:Zahidul-Islam/lambda-perf.git && cd lambda-perf`
 - Rename the `.env.template` file: `mv .env.template .env`
 - Install pacages: `npm i`
 - Symlink the package folder: `npm link`
