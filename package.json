@@ -22,7 +22,7 @@
   "author": "Zahidul Islam",
   "license": "MIT",
   "dependencies": {
-    "aws-sdk": "^2.596.0",
+    "aws-sdk": "^2.814.0",
     "chalk": "^3.0.0",
     "commander": "^4.0.1",
     "dotenv": "^8.2.0",
